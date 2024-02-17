@@ -1,0 +1,1 @@
+export type MenuProps = {path: string; name:string}
